@@ -1,19 +1,19 @@
 #direct
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/ChinaDomian.list,DIRECT,tag="ChinaDomian",desc="中国常用域名"
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/ChinaCompanyIp.list,DIRECT,tag="ChinaCompanyIp",desc="中国互联网公司IP"
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/WeChat.list,DIRECT,tag="微信",desc="微信常用域名和IP"
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/cn.list,DIRECT,tag="中国GEOIP",desc="GEOIP CN"
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/ChinaDomian.list,policy=DIRECT,tag=ChinaDomian,desc=中国常用域名
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/ChinaCompanyIp.list,policy=DIRECT,tag=ChinaCompanyIp,desc=中国互联网公司IP
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/WeChat.list,policy=DIRECT,tag=WeChat,desc=微信常用域名和IP
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/cn.list,policy=DIRECT,tag=cn,desc=GEOIP CN
 
 #reject
 
 #proxy
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/YouTube.list,PROXY,tag="YouTube"
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Twitter.list,PROXY,tag="Twitter"
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Telegram.list,PROXY,tag="Telegram"
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Netflix.list,PROXY,tag="Netflix"
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Instagram.list,PROXY,tag="Instagram"
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Google.list,PROXY,tag="Google"
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/ChatGPT.list,PROXY,tag="ChatGPT"
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Copilot.list,PROXY,tag="Copilot"
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Gemini.list,PROXY,tag="Gemini"
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Claude.list,PROXY,tag="Claude"
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/YouTube.list,policy=PROXY,tag=YouTube
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Twitter.list,policy=PROXY,tag=Twitter
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Telegram.list,policy=PROXY,tag=Telegram
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Netflix.list,policy=PROXY,tag=Netflix
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Instagram.list,policy=PROXY,tag=Instagram
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Google.list,policy=PROXY,tag=Google
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/ChatGPT.list,policy=PROXY,tag=ChatGPT
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Copilot.list,policy=PROXY,tag=Copilot
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Gemini.list,policy=PROXY,tag=Gemini
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Claude.list,policy=PROXY,tag=Claude
