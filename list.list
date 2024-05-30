@@ -11,7 +11,9 @@ https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/YouTube.list
 https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Twitter.list,policy=PROXY,tag=Twitter
 https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Telegram.list,policy=PROXY,tag=Telegram
 https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Netflix.list,policy=PROXY,tag=Netflix
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/HBO.list,policy=PROXY,tag=HBO
 https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Instagram.list,policy=PROXY,tag=Instagram
+https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Facebook.list,policy=PROXY,tag=Facebook
 https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Google.list,policy=PROXY,tag=Google
 https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/ChatGPT.list,policy=PROXY,tag=ChatGPT
 https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Copilot.list,policy=PROXY,tag=Copilot
